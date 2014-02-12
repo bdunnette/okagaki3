@@ -20,6 +20,11 @@ color: #ffb71e;
 color: #ffb71e;
 }
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+color: #ffb71e;
+background-color: #5b0013;
+}
+
 a {
 color: #7a0019;
 text-decoration: none;
