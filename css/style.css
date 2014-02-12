@@ -1,0 +1,30 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+.navbar-default {
+background-color: #7a0019;
+border-color: #5b0013;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand {
+color: #ffcc33;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+color: #ffb71e;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+color: #ffb71e;
+}
+
+a {
+color: #7a0019;
+text-decoration: none;
+}
+
+a:hover, a:focus {
+color: #5b0013;
+}
