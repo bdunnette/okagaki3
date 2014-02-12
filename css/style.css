@@ -33,3 +33,13 @@ text-decoration: none;
 a:hover, a:focus {
 color: #5b0013;
 }
+
+img {
+padding: 5px;
+float: left;
+clear: right;
+}
+
+.field {
+clear: both;
+}
